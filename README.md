@@ -24,3 +24,7 @@ We successfully identified two novel disease-causing homozygous deletions; a del
 
 The initial identification of two CNVs shows this technique’s power in identifying disease-causing homozygous recessive deletions and demonstrates the research value of this cohort. We will continue to search for further findings in this dataset.
 We aim to incorporate this technique into routine exome analysis to aid identification of disease-causing CNVs.
+
+Available at: https://lpeacock.shinyapps.io/CNV_dev_version/
+
+More information: https://www.genomemed.org/megp
